@@ -64,3 +64,6 @@ Then, update your backend code to use these environment variables (e.g., using t
 
 
 
+
+# Preview
+![preview](./Preview/Preview.png)
