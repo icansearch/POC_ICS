@@ -1,0 +1,21 @@
+# Node modules for both backend and frontend
+node_modules/
+**/node_modules/
+
+# Environment variables (do not commit sensitive info)
+.env
+
+# Build outputs for frontend (if applicable)
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# macOS specific files
+.DS_Store
+
+# Optional: Editor-specific files
+.vscode/
+.idea/
