@@ -1,4 +1,4 @@
-# Domain Price Checker Demo 🚀🔎
+# iCanSearch.com - Domain Price Checker Demo 🚀🔎
 
 This project is a proof-of-concept that checks domain availability and displays real-time prices from multiple registrars. It helps validate our idea by:
 
@@ -37,7 +37,6 @@ This project is a proof-of-concept that checks domain availability and displays 
     
     cd backend
     npm install
-    # Create a .env file (see "Environment Variables" below)
     node server.js
 
 3. **Setup the Frontend:**
